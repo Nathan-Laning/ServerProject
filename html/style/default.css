@@ -1,0 +1,15 @@
+/*
+CSS file for changing various aspects of the appearance of the website itself
+Created 7/15/18
+Nathan Laning
+ */
+
+
+
+h1{
+    font-family: "Cooper Black";
+    color: green;
+}
+#index{
+    background-color: darkseagreen;
+}
