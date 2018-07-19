@@ -1,0 +1,16 @@
+/*
+CSS file for changing various aspects of the appearance of the website itself
+Created 7/15/18
+Nathan Laning
+ */
+
+
+
+h1{
+    font-family: "Cooper Black", serif;
+    color: black;
+    background: azure;
+}
+#index{
+    background-image: url("../images/1.jpg");
+}

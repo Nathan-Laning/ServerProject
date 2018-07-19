@@ -7,9 +7,10 @@ Nathan Laning
 
 
 h1{
-    font-family: "Cooper Black";
-    color: green;
+    font-family: "Cooper Black", serif;
+    color: black;
+    background: azure;
 }
 #index{
-    background-color: darkseagreen;
+    background-image: url("../images/1.jpg");
 }
