@@ -13,6 +13,9 @@ include("nav.php");
 <body>
 <h1> This is a server, and it is on a phone</h1>
 </body>
+<?php
+include("footer.php");
+?>
 </html>
 
 
