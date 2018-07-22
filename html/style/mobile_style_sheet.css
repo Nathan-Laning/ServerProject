@@ -1,16 +1,17 @@
 /*
 CSS file for changing various aspects of the appearance of the website itself
-Created 7/15/18
+This style-sheet is optimized for MOBILE Interfacing, please alter default_style_sheet to alter the DESKTOP/LAPTOP style
+Created 7/21/18
 Nathan Laning
  */
 
 
-
+/*~~~~~~~ Default Settings, to be overwritten if necessary ~~~~~~~~*/
 h1{
     font-family: "Cooper Black", serif;
     color: black;
     background: azure;
 }
-#index{
-    background-image: url("../images/1.jpg");
+#home{
+    background: darkseagreen ;
 }

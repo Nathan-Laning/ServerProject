@@ -11,7 +11,10 @@ include("nav.php");
     <title>Title</title>
 </head>
 <body>
-<h1> This is a server, and it is working?????</h1>
+<h1> This is a server, and it is working?</h1>
+<?php
+include("footer.php");
+?>
 </body>
 </html>
 
