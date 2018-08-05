@@ -20,6 +20,7 @@
     $path_parts = pathinfo($phpSelf);
 
     print'</head>';
+
     print '<body id="' . $path_parts['filename'] . '">';
     if ($debug) {
         print '<p>DEBUG MODE IS ON</p>';

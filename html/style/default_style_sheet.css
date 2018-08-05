@@ -12,11 +12,16 @@ h1{
     background: azure;
 }
 /*~~~~~~~ Home Page Style ~~~~~~~ */
-#home h1{
-    font-family: "Cooper Black", serif;
-    color: black;
-    background: azure;
-}
+
 #home{
     background: crimson;
+    margin: 0;
 }
+
+divnav{
+    width: 100%;
+    padding: 10px ;
+    background-color: #57bc36;
+    display: block;
+}
+
