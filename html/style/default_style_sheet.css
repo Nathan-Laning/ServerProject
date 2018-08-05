@@ -6,22 +6,33 @@ Nathan Laning
  */
 
 /*~~~~~~~ Default Style Settings ~~~~~~~~*/
-h1{
-    font-family: "Cooper Black", serif;
-    color: white;
-    background: azure;
-}
+
 /*~~~~~~~ Home Page Style ~~~~~~~ */
 
 #home{
-    background: crimson;
+    background: #ecffd8;
     margin: 0;
 }
-
+/*~~~~~~~ Nav Style ~~~~~~~ */
 divnav{
-    width: 100%;
-    padding: 10px ;
     background-color: #57bc36;
     display: block;
 }
+hn{
+    font-family: Futura, cursive;
+    padding: 10px;
 
+}
+divg{
+    height: 7px;
+    width: 100%;
+    background: linear-gradient(to bottom,#919f80,#ecffd8);
+    display: block;
+}
+/*~~~~~~~ Footer Style ~~~~~~~ */
+af{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    color: #919f80;
+}

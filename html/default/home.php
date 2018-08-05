@@ -1,7 +1,8 @@
 <!-- THIS IS THE MAIN INDEX, ALL REDIRECTS WILL BE BASED OUT OF HERE -->
 <?php
 include("top.php");
-include("nav.php");include("header.php");
+include("nav.php");
+include("header.php");
 
 ?>
 <!DOCTYPE html>

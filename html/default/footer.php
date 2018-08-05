@@ -9,10 +9,10 @@ $domain .=  $directory;
 $phpSelf = htmlentities($_SERVER['PHP_SELF'], ENT_QUOTES, "UTF-8");
 $path_parts = pathinfo($phpSelf);
 /* displaying mobile link */
-print '<a href="';
+print '<af href="';
 print $domain;
 print $path_parts['filename'];
 print ".";
 print $path_parts['extension'];
-print '">Mobile Version</a>';
+print '">Mobile Version</af>';
 ?>
