@@ -9,8 +9,14 @@ Nathan Laning
 
 /*~~~~~~~ Home Page Style ~~~~~~~ */
 
-#home{
-    background: #ecffd8;
+tile1{
+    width: 100px;
+    height: 100px;
+}
+#home, #player1, #player2{
+    background: black;
+    /*background: url(/images/background.png) 0 0;*/
+    /*background-repeat: no-repeat;*/
     margin: 0;
 }
 /*~~~~~~~ Nav Style ~~~~~~~ */
@@ -34,5 +40,5 @@ af{
     position: absolute;
     bottom: 0;
     left: 50%;
-    color: #919f80;
+    /*color: #919f80;*/
 }
